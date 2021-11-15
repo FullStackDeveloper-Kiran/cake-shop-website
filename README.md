@@ -1,1 +1,1 @@
-# cake-shop-website
+# hotel-shop-website
